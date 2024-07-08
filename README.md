@@ -1,11 +1,18 @@
-# WeatherApplication
-A simple weather application using the openweather API.
+# CODTECH-INTERN
+**NAME:** ALAGARSAMY R
 
-STEPS TO RUN THE CODE: 
-1. Go to https://openweathermap.org
-2. Create a free account
-3. Navigate to the API keys section
-4. Generate a key
-5. Copy that key to clipboard
-6. Insert that key into the required variable in the script.js file
-7. Enjoy!
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**ID:** CT08DS2025
+
+**DOMAIN:** WEB DEVELOPMENT
+
+**MENTOR:** GOUNISRAVANI
+
+# OVERVIEW OF THIS PROJECT
+
+![Screenshot (7)](https://github.com/devression/WeatherApplication/assets/175021075/33ac8a4b-7c55-4c8d-b1a7-a2a8767d5427)
+
+### project: to-do list web application
+
+### objective
